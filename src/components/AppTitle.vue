@@ -9,7 +9,7 @@ export default {
 <template>
 
     <h1>
-        La mia prima app con Vite!
+        > La mia prima app con Vite!
     </h1>
 
 </template>
@@ -17,8 +17,8 @@ export default {
 <style>
 
 h1 {
-    color: lime;
     text-align: center;
+    padding-bottom: 30px;
 }
 
 </style>
